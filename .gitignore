@@ -1,0 +1,12 @@
+*.uvoptx
+*.uvgui.*
+Objects/
+Listings/
+*.axf
+*.hex
+*.bin
+*.map
+*.o
+*.obj
+*.lst
+*.log
